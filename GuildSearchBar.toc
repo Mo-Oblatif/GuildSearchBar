@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Guild Search Bar
+## Notes: Adds a search bar to the guild roster to find a member by name or note.
+## Notes-frFR: Ajoute une barre de recherche à la liste des membres de la guilde pour trouver un joueur par son nom ou sa note.
+## Author: Mo Løck
+## Version: 1.1.0
+## Category: Social
+## Category-frFR: Social
+## X-Category: Guild
+## X-License: MIT
+## IconTexture: Interface\Icons\INV_Misc_Spyglass_03
+## SavedVariables: GuildSearchBarDB
+
+Locales.lua
+GuildSearchBar.lua
